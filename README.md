@@ -1,2 +1,2 @@
 # Blackjack-Game
-Blackjack game using Javascript.
+CSC 225 Fundemental Structures project, Blackjack game using Javascript.
