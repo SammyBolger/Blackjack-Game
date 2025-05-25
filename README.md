@@ -33,8 +33,8 @@ A simple browser-based Blackjack game built using HTML, CSS, and JavaScript. Dev
 
 - **HTML5** – markup for structure
 - **CSS3** – layout and styling
-- **JavaScript (ES6)** – game logic and interactivity
-- **QuickTime Player** – for video demonstration
+- **JavaScript (ES6)** – interactivity
+- **Java** – game logic
 
 ---
 
