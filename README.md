@@ -38,6 +38,15 @@ A simple browser-based Blackjack game built using HTML, CSS, and JavaScript. Dev
 
 ---
 
+## 🔮 Future Improvements
+
+- Implement splitting and doubling down mechanics
+- Make the buttons and UI more visually appealing
+- Add betting chips instead of manually entering the amount
+- Implement proper Blackjack payouts (e.g., 3:2 or 6:5 ratios)
+
+---
+
 ## 🚀 How to Run
 
 This project was built using **Apache NetBeans**.
